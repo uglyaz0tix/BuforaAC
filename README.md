@@ -1,49 +1,32 @@
-## 🔒 About BuforaAC
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uglyaz0tix/BuforaAC/main/assets/bufora_hero.png" width="100%" alt="BuforaAC Hero">
+</p>
 
-Bufora is the next-generation anti-cheat solution for Linux games, engineered to provide unprecedented protection against modern cheating techniques. 
+<h1 align="center">🦾 BuforaAC: Linux Anti-Cheat Engine</h1>
+<h3 align="center">The first native protection system built exclusively for Linux gaming</h3>
 
-### Our Security Philosophy
-```mermaid
-graph LR
-    A[Closed-Source] --> B[Obfuscation]
-    B --> C[Anti-Reversing]
-    C --> D[Secure Kernel Modules]
-    D --> E[Runtime Protection]
-Written in ASM/C/C++: Leveraging low-level capabilities for maximum performance and security
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/engine-asm%2Fc%2Fc++-informational?style=for-the-badge&logo=c" alt="Engine">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/platform-linux-success?style=for-the-badge&logo=linux" alt="Linux">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/status-core_development-yellow?style=for-the-badge" alt="Development">
+  </a>
+</div>
 
-Source Code Protection: Full source will not be publicly available to prevent vulnerability analysis
+<br>
 
-Defense-in-Depth: Multi-layered protection against memory scanning and reverse engineering
+<div align="center">
+  <img src="https://raw.githubusercontent.com/uglyaz0tix/BuforaAC/main/assets/protection_demo.gif" width="90%" alt="Protection Demo">
+  <p><em>Real-time cheat detection and prevention (development preview)</em></p>
+</div>
 
-Active Obfuscation: Continuously evolving code protection mechanisms
+## 🚀 Coming Soon: The Linux Anti-Chat We Need
 
-Anti-Tamper: Self-protecting modules that detect and prevent modification attempts
-
-Why Closed Source?
-We believe that anti-cheat security requires a balanced approach:
-
-Diagram
-Code
-Mermaid rendering failed.
-Prevents cheat developers from studying detection mechanisms
-
-Protects proprietary algorithms and signature databases
-
-Maintains integrity of kernel-level protections
-
-Ensures long-term effectiveness against evolving threats
-
-For Game Developers
-While the core remains closed, we provide:
-
-Clean API for integration
-
-Documentation for implementation
-
-SDK with sample protections
-
-Customizable rule sets
-
-Regular security updates
-
-"Security through obscurity alone is insufficient, but combined with our active protection layers, it creates a formidable defense system." - BuforaAC Team
+```bash
+# The current state of Linux anti-cheat:
+$ sudo apt search anti-cheat
+Sorry, no matches found.
