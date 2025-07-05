@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/platform-linux-success?style=for-the-badge&logo=linux" alt="Linux">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/status-core_development-yellow?style=for-the-badge" alt="Development">
+    <img src="https://img.shields.io/badge/status-preAlpha-yellow?style=for-the-badge" alt="Development">
   </a>
 </div>
 
