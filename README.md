@@ -24,9 +24,9 @@
   <p><em>Real-time cheat detection and prevention (development preview)</em></p>
 </div>
 
-## 🚀 Coming Soon: The Linux Anti-Chat We Need
+## 🚀 Coming Soon: The Linux Anti-Cheat We Need
 
 ```bash
 # The current state of Linux anti-cheat:
-$ sudo apt search anti-cheat
-Sorry, no matches found.
+$ sudo apt search BuforaAC
+pre-Alpha state!
