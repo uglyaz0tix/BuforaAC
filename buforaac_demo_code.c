@@ -4,13 +4,10 @@
 #include <link.h>
 
 
-static uint8_t runtime_key[HW_KEY_SIZE];
-static uint8_t runtime_iv[BUFORA_IV_SIZE];
+ // secret functions
 
 
-void dynamic_encrypt_executable() {
-    Dl_info info;
-    if (dladdr((void*)dynamic_encrypt_executable, &info)) 
+// secret functions number 2 
 
 
     // its demo code, full source code not in a github, its a big secret!
