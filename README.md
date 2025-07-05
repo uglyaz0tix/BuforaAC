@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uglyaz0tix/BuforaAC/main/assets/bufora_hero.png" width="100%" alt="BuforaAC Hero">
+  <img src="https://raw.githubusercontent.com/uglyaz0tix/BuforaAC/main/assets/bufora.jpg" width="100%" alt="BuforaAC Hero">
 </p>
 
 <h1 align="center">🦾 BuforaAC: Linux Anti-Cheat Engine</h1>
